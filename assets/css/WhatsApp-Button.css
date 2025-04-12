@@ -1,0 +1,9 @@
+*:before, *:after {
+  box-sizing: inherit;
+}
+
+#wp:hover {
+  /*color: rgb(72,90,255);*/
+  text-decoration: none;
+}
+
