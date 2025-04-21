@@ -1,0 +1,47 @@
+@font-face {
+	font-family: 'Helvetica';
+	src: url(../../assets/fonts/Helvetica-03d7c418a584790c78ea5fd1bc7c956e.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Helvetica-03d7c418a584790c78ea5fd1bc7c956e.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Helvetica-c18985b2168cf15a154f4d782de06df4.woff2) format('woff2'),
+	url(../../assets/fonts/Helvetica-cf2f7a23fe30d9ae257b89c35a45511e.woff) format('woff'),
+	url(../../assets/fonts/Helvetica-65ee00bcdefc5f073ad400e2ee91e1da.ttf) format('truetype');
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Helvetica';
+	src: url(../../assets/fonts/Helvetica-4b62261ba905a1b5c45d9c9b4fc7efe5.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Helvetica-4b62261ba905a1b5c45d9c9b4fc7efe5.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Helvetica-3614698744a49d40504e7f4d82469aac.woff2) format('woff2'),
+	url(../../assets/fonts/Helvetica-a07c5e51a9bcc953d2d21f2bce0a8f88.woff) format('woff'),
+	url(../../assets/fonts/Helvetica-a692452f95c23b7fed42f448712d0fb6.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Helvetica';
+	src: url(../../assets/fonts/Helvetica-964caaa241e0447392ccb85d56a0270c.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Helvetica-964caaa241e0447392ccb85d56a0270c.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Helvetica-09846fc2de0f47a198a0e7f332f35446.woff2) format('woff2'),
+	url(../../assets/fonts/Helvetica-347ceb29dfbb61602bd376fa8101a6c4.woff) format('woff'),
+	url(../../assets/fonts/Helvetica-083623132fc966d8be5db7cf08450978.ttf) format('truetype');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Helvetica';
+	src: url(../../assets/fonts/Helvetica-08eb1b42ba40805f8a611433be01e62a.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Helvetica-08eb1b42ba40805f8a611433be01e62a.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Helvetica-c6b6342dbfc102e59ab1e9c30f09b83e.woff2) format('woff2'),
+	url(../../assets/fonts/Helvetica-2d3e08653ea4e0a5194d97b5cd68f8cf.woff) format('woff'),
+	url(../../assets/fonts/Helvetica-53db362dacb4326edb35cb85b2970c55.ttf) format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
