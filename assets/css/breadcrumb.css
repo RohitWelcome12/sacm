@@ -1,0 +1,147 @@
+a:hover {
+  color: #75c868;
+  text-decoration: none;
+}
+
+.card-effect-border:hover {
+  box-shadow: 0px 2px 3px 0px #073700;
+}
+
+.doctor-card {
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#navbgcolor {
+  background-color: #0e7300;
+}
+
+.Copyright_text {
+  text-align: center;
+  font-size: 12px;
+  font-family: Helvetica;
+  letter-spacing: 0px;
+}
+
+#Social_media {
+  text-align: center;
+}
+
+.Sriranga_2025 {
+  text-align: center;
+  font-family: Helvetica;
+  letter-spacing: 0px;
+  font-size: 14px;
+}
+
+.bottomfooter {
+  text-align: center;
+}
+
+#Sriranga_bottom_f {
+  background: #0E7300;
+  color: rgb(253,253,253);
+  height: 137.8px;
+}
+
+#Header_email {
+  margin: 2px;
+  font-size: 12px;
+  font-family: Helvetica;
+  color: #0E7300;
+  letter-spacing: 0px;
+}
+
+#Header_phone {
+  margin: 2px;
+  font-size: 15px;
+  background: #cb4c1c;
+  border-radius: 5px;
+  color: rgb(255,255,255);
+  font-family: Helvetica;
+  letter-spacing: 0px;
+}
+
+#Sriranga_body {
+  font-family: Helvetica !important;
+}
+
+.Doctors_Profile_top {
+  background: linear-gradient(#0e7300 0%, #ffffff 100%);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border: 1px solid var(--bs-success) ;
+}
+
+.Doctors_card_header {
+  background: #0e7300;
+}
+
+a {
+  letter-spacing: 1px;
+}
+
+.text_color_white {
+  color: #ffffff;
+}
+
+.text_color_green {
+  color: #0e7300;
+}
+
+.text_space {
+  letter-spacing: 2px;
+}
+
+.text_bg_sriranga {
+  background-color: #0E7300;
+}
+
+.video_height {
+  height: 170px;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.image-border-radius {
+  border-radius: 20px;
+  box-shadow: 0px 2px 2px 0px;
+  opacity: 1;
+}
+
+.image-size-trend {
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px rgb(126,126,126);
+  width: 100%;
+  height: auto;
+}
+
+#navbgcolor-navbgcolor-1 {
+  background: #173b2d;
+}
+
+.section-bg-color {
+  background: #173b2d;
+}
+
+#Sriranga_bottom_f1 {
+  background: #173b2d;
+  color: rgb(253,253,253);
+  height: 137.8px;
+}
+
+#srifooter2 {
+  bottom: 0px;
+  /*z-index: 11;*/
+  box-shadow: 0px -1px 1px rgb(13,34,8);
+  background: #173b2d;
+  color: rgb(253,253,253);
+  position: sticky;
+}
+
+.text_color_green1 {
+  color: #173b2d;
+}
+
