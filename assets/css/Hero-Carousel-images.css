@@ -1,0 +1,49 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+@media (min-width: 300px) {
+  .section2-sri {
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+  }
+}
+
+@media (min-width: 992px) {
+  .section2-sri {
+    flex-wrap: nowrap;
+    flex-direction: row;
+  }
+}
+
+@media (min-width: 992px) {
+  .para-width {
+    width: 53%!important;
+  }
+}
+
+@media (min-width: 768px) {
+  #sri-card {
+    flex-direction: row !important;
+  }
+}
+
+@media (min-width: 300px) {
+  #sri-card {
+    flex-direction: column-reverse;
+  }
+}
+
+@media (min-width: px) {
+  .cardsriranga {
+    width: 238px !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .cardsriranga {
+    width: 25% !important;
+  }
+}
+
